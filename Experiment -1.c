@@ -8,6 +8,7 @@ void create(int a[], int *n)
     int i;
     printf("Enter number of elements: ");
     scanf("%d", n);
+    printf("Anjali");
 
     if (*n < 0 || *n > MAX)
     {
